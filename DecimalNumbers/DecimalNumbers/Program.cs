@@ -32,6 +32,7 @@ namespace DecimalNumbers
 
             }
             Console.WriteLine(result);
+
         }
     }
 }
