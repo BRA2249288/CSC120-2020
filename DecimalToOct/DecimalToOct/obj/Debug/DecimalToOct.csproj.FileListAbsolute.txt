@@ -1,0 +1,6 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalToOct\DecimalToOct\bin\Debug\DecimalToOct.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalToOct\DecimalToOct\bin\Debug\DecimalToOct.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalToOct\DecimalToOct\bin\Debug\DecimalToOct.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalToOct\DecimalToOct\obj\Debug\DecimalToOct.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalToOct\DecimalToOct\obj\Debug\DecimalToOct.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalToOct\DecimalToOct\obj\Debug\DecimalToOct.pdb

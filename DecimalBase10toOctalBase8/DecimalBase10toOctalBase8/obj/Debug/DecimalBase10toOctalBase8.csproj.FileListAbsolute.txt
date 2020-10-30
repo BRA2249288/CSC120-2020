@@ -1,0 +1,7 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\obj\Debug\DecimalBase10toOctalBase8.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\obj\Debug\DecimalBase10toOctalBase8.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\bin\Debug\DecimalBase10toOctalBase8.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\bin\Debug\DecimalBase10toOctalBase8.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\bin\Debug\DecimalBase10toOctalBase8.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\obj\Debug\DecimalBase10toOctalBase8.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalBase10toOctalBase8\DecimalBase10toOctalBase8\obj\Debug\DecimalBase10toOctalBase8.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\bin\Debug\DecimalNumbers.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\bin\Debug\DecimalNumbers.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\bin\Debug\DecimalNumbers.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\obj\Debug\DecimalNumbers.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\obj\Debug\DecimalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\obj\Debug\DecimalNumbers.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\DecimalNumbers\DecimalNumbers\obj\Debug\DecimalNumbers.pdb
