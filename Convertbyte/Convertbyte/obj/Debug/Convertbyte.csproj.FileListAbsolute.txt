@@ -1,0 +1,7 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\bin\Debug\Convertbyte.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\bin\Debug\Convertbyte.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\bin\Debug\Convertbyte.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\obj\Debug\Convertbyte.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\obj\Debug\Convertbyte.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\obj\Debug\Convertbyte.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Convertbyte\Convertbyte\obj\Debug\Convertbyte.pdb

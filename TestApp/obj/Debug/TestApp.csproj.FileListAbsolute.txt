@@ -1,0 +1,7 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\bin\Debug\TestApp.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\obj\Debug\TestApp.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\TestApp\obj\Debug\TestApp.pdb
