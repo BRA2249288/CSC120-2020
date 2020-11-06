@@ -20,22 +20,22 @@ namespace Week2_LogicGates
             // 2) State : (false) + (true)  =  (false)
             // 3) State : (true)  + (false) =  (false)
             // 4) State : (true)  + (true)  =  (true)
-            //TestCaseMixed1();//AND OR
-            //TestCaseMixed2();//NAND NOR
-            //TestCaseMixed3();//XNOR XOR
-            //TestCaseAND1();
-            //TestCaseAND2();
-            //TestCaseAND3();
-            //TestCaseAND4();
-            //TestCaseNOT1();
-            //TestCaseNOT2();
-            //TestCaseOR1();
-            //TestCaseOR2();
-            //TestCaseOR3();
-            //TestCaseOR4();
-            //TestCaseNOR1();
-            //TestCaseXOR1();
-          //  TestCaseHADD1(); // halfAdder
+            TestCaseMixed1();//AND OR
+            TestCaseMixed2();//NAND NOR
+            TestCaseMixed3();//XNOR XOR
+            TestCaseAND1();
+            TestCaseAND2();
+            TestCaseAND3();
+            TestCaseAND4();
+            TestCaseNOT1();
+            TestCaseNOT2();
+            TestCaseOR1();
+            TestCaseOR2();
+            TestCaseOR3();
+            TestCaseOR4();
+            TestCaseNOR1();
+            TestCaseXOR1();
+            TestCaseHADD1(); // halfAdder
             TestCaseFADD1(); // fullAdder
 
 
