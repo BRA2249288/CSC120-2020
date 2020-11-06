@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2-LogicGates", "Week2-LogicGates.csproj", "{5F0A8850-52DA-4852-A3F3-23075BD9F6F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0A8850-52DA-4852-A3F3-23075BD9F6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0A8850-52DA-4852-A3F3-23075BD9F6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0A8850-52DA-4852-A3F3-23075BD9F6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0A8850-52DA-4852-A3F3-23075BD9F6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D59572-526C-41D7-B309-A395DB46D6C7}
+	EndGlobalSection
+EndGlobal
