@@ -1,0 +1,7 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\bin\Debug\Week3BooleanIdentity.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\bin\Debug\Week3BooleanIdentity.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\bin\Debug\Week3BooleanIdentity.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\obj\Debug\Week3BooleanIdentity.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\obj\Debug\Week3BooleanIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\obj\Debug\Week3BooleanIdentity.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\obj\Debug\Week3BooleanIdentity.pdb

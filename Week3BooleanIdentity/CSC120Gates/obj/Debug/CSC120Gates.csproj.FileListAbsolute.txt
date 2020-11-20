@@ -1,0 +1,7 @@
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\obj\Debug\CSC120Gates.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\obj\Debug\CSC120Gates.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\bin\Debug\CSC120Gates.exe.config
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\bin\Debug\CSC120Gates.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\bin\Debug\CSC120Gates.pdb
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\obj\Debug\CSC120Gates.exe
+C:\Users\Bcast\source\repos\BRA2249288\CSC120-2020\Week3BooleanIdentity\CSC120Gates\obj\Debug\CSC120Gates.pdb
