@@ -1,0 +1,13 @@
+C:\Users\Bcast\source\repos\ReadFromFile\bin\Debug\netcoreapp3.1\ReadFromFile.exe
+C:\Users\Bcast\source\repos\ReadFromFile\bin\Debug\netcoreapp3.1\ReadFromFile.deps.json
+C:\Users\Bcast\source\repos\ReadFromFile\bin\Debug\netcoreapp3.1\ReadFromFile.runtimeconfig.json
+C:\Users\Bcast\source\repos\ReadFromFile\bin\Debug\netcoreapp3.1\ReadFromFile.runtimeconfig.dev.json
+C:\Users\Bcast\source\repos\ReadFromFile\bin\Debug\netcoreapp3.1\ReadFromFile.dll
+C:\Users\Bcast\source\repos\ReadFromFile\bin\Debug\netcoreapp3.1\ReadFromFile.pdb
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.csprojAssemblyReference.cache
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.AssemblyInfoInputs.cache
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.AssemblyInfo.cs
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.dll
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.pdb
+C:\Users\Bcast\source\repos\ReadFromFile\obj\Debug\netcoreapp3.1\ReadFromFile.genruntimeconfig.cache
