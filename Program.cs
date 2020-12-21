@@ -20,6 +20,7 @@ namespace SimpleCircuits
             //if file doesn't exist create input data .txt 
             if (!File.Exists(@"C:\Data2\inputdata.txt"))
             {
+                //commented out new updated code 
                 var fs = new FileStream(@"C:\Data2\inputdata.txt", FileMode.Create);
                 var sw = new StreamWriter(fs);
                 sw.WriteLine("A,D,X,L");
@@ -33,6 +34,21 @@ namespace SimpleCircuits
                 sw.Flush();
                 sw.Close();
                 fs.Close();
+                //var fs = new FileStream(@"C:\Data2\inputdata.txt", FileMode.Create);
+                //var sw = new StreamWriter(fs);
+                //sw.WriteLine("I1,V1,V2,R1,D1");
+                //sw.WriteLine("2,0,0,0,0");
+                //sw.WriteLine("3,0,0,1,0");
+                //sw.WriteLine("4,0,1,0,1");
+                //sw.WriteLine("5,0,1,1,1");
+                //sw.WriteLine("6,1,0,0,1");
+                //sw.WriteLine("7,1,1,0,1");
+                //sw.WriteLine("8,1,1,1,1");
+                //sw.WriteLine("9,0,0,0,0");
+                //sw.WriteLine("2,0,0,1,0");
+                //sw.Flush();
+                //sw.Close();
+                //fs.Close();
             }
             string[] STORAGE = System.IO.File.ReadAllLines(@"C:\Data2\inputdata.txt");
             
@@ -46,6 +62,10 @@ namespace SimpleCircuits
             {
                 var dataElements = data.Split(',');
                 // Use a tab to indent each line of the file.
+                
+                                //int addRes = 3;
+                //int inputCir = inputRow.I1;
+                //int totalResult = addRes * inputCir; 
 
                 inputRow.A = Utility.ConvertToBoolean(dataElements[0]);
                 inputRow.X = Utility.ConvertToBoolean(dataElements[1]);
@@ -54,6 +74,15 @@ namespace SimpleCircuits
                 inputList.Add(inputRow);
                 bool YesComma = true;
                 bool NoComma = false;
+                
+                //totalResult = int.Parse(dataElements[0]);
+                //inputRow.V1 = Utility.ConvertToBoolean(dataElements[1]);
+                //inputRow.V2 = Utility.ConvertToBoolean(dataElements[2]);
+                //inputRow.D1 = Utility.ConvertToBoolean(dataElements[4]);
+                //inputRow.R1 = Utility.ConvertToBoolean(dataElements[5]);
+                //inputList.Add(inputRow);
+                //bool YesComma = true;
+                //bool NoComma = false;
 
                // SaveData(line);
                //Outputs the Simple Circut results
@@ -67,11 +96,29 @@ namespace SimpleCircuits
                 Console.Write(inputRow.R.ToString() + ",");
                 Console.WriteLine();
                 SaveLine();
+                
+                //SaveData(inputRow.I1.ToString(), YesComma);
+                //Console.Write(inputRow.I1.ToString() + ",");
+                //SaveData(inputRow.V1.ToString(), YesComma);
+                //Console.Write(inputRow.V1.ToString() + ",");
+                //SaveData(inputRow.V2.ToString(), YesComma);
+                //Console.Write(inputRow.V2.ToString() + ",");
+                //SaveData(inputRow.D1.ToString(), YesComma);
+                //Console.Write(inputRow.D1.ToString() + ",");
+                //SaveData(inputRow.R1.ToString(), NoComma);
+                //Console.Write(inputRow.R1.ToString() + ",");
+                //Console.WriteLine();
+                //SaveLine();
                 //backup memory data
                 BackupData(inputRow.A.ToString());
                 BackupData(inputRow.X.ToString());
                 BackupData(inputRow.D.ToString());
                 BackupData(inputRow.R.ToString());
+                //BackupData(inputRow.I1.ToString());
+                //BackupData(inputRow.V1.ToString());
+                //BackupData(inputRow.V2.ToString());
+                //BackupData(inputRow.D1.ToString());
+                //BackupData(inputRow.R1.ToString());
                 //Control + C or Control + Q pressed will save current line to file
                // Console.WriteLine("\t" + data);
                 //stope with Read key to test Control + C 
